@@ -2,6 +2,11 @@
 
 Este documento define la **arquitectura estándar** y los **patrones de diseño** que se deben usar en todos los microservicios de Neofile, siguiendo una estructura hexagonal limpia y aplicando patrones GoF reales donde sea apropiado.
 
+## Scaffolding of Clean Architecture: 
+
+https://bancolombia.github.io/scaffold-clean-architecture/docs/intro
+
+
 ---
 
 ## 📁 Estructura de Carpetas (Por Microservicio)

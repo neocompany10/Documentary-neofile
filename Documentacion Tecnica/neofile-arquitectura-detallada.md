@@ -100,7 +100,7 @@ Neofile es un sistema inteligente de gestión documental desarrollado por Gesti�
 - **Hosting**: Vercel, S3 + CloudFront o Azure Static Web Apps
 
 ### Backend
-- **Lenguaje**: Java 21
+- **Lenguaje**: Java 21 LTS
 - **Framework**: Spring Boot + WebFlux
 - **Base de datos**: PostgreSQL (AWS RDS)
 - **Integración IA**: OpenAI GPT-4o via REST - trebol OCR
